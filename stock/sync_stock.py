@@ -160,17 +160,18 @@ for entry in mapping:
 
             sold_a    = max(0, last_a - cur_a)
             sold_b    = max(0, last_b - cur_b)
-            restock_a = max(0, cur_a - last_a)  # llego mercaderia a R10
+            restock_a = max(0, cur_a - last_a)  # mercaderia nueva en R10
+            restock_b = max(0, cur_b - last_b)  # cancelacion/devolucion en Club 90
 
-            new_pool = max(0, pool - sold_a - sold_b + restock_a)
+            new_pool = max(0, pool - sold_a - sold_b + restock_a + restock_b)
 
-            changed = sold_a > 0 or sold_b > 0 or restock_a > 0
+            changed = sold_a > 0 or sold_b > 0 or restock_a > 0 or restock_b > 0
 
             if changed:
                 diffs_found += 1
                 log(f"  DELTA {label}: "
-                    f"pool={pool} sold_A={sold_a} sold_B={sold_b} repo_A={restock_a} "
-                    f"→ new_pool={new_pool}")
+                    f"pool={pool} sold_A={sold_a} sold_B={sold_b} "
+                    f"repo_A={restock_a} repo_B={restock_b} → new_pool={new_pool}")
 
             need_update_a = cur_a != new_pool
             need_update_b = cur_b != new_pool
