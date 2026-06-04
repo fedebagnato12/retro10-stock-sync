@@ -1,0 +1,6206 @@
+[
+  {
+    "model_a": "Boca Jrs. 2000 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 2000",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "PALERMO (9)",
+    "store_a": {
+      "product_id": 267716171,
+      "variant_id": 1188125229,
+      "stock": 5
+    },
+    "store_b": {
+      "product_id": 336983895,
+      "variant_id": 1498101371,
+      "stock": 10
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2000 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 2000",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "RIQUELME (10)",
+    "store_a": {
+      "product_id": 267716171,
+      "variant_id": 1188125235,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983895,
+      "variant_id": 1498101378,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2000 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 2000",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267716171,
+      "variant_id": 1212682505,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983895,
+      "variant_id": 1498101380,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2000 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 2000",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "PALERMO (9)",
+    "store_a": {
+      "product_id": 267716171,
+      "variant_id": 1188125242,
+      "stock": 5
+    },
+    "store_b": {
+      "product_id": 336983895,
+      "variant_id": 1498101382,
+      "stock": 9
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2000 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 2000",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "RIQUELME (10)",
+    "store_a": {
+      "product_id": 267716171,
+      "variant_id": 1188125248,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983895,
+      "variant_id": 1498101385,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2000 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 2000",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267716171,
+      "variant_id": 1212682509,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983895,
+      "variant_id": 1498101389,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2000 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 2000",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "PALERMO (9)",
+    "store_a": {
+      "product_id": 267716171,
+      "variant_id": 1188125255,
+      "stock": 8
+    },
+    "store_b": {
+      "product_id": 336983895,
+      "variant_id": 1498101393,
+      "stock": 13
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2000 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 2000",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "RIQUELME (10)",
+    "store_a": {
+      "product_id": 267716171,
+      "variant_id": 1188125260,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983895,
+      "variant_id": 1498101395,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2000 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 2000",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267716171,
+      "variant_id": 1212682512,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983895,
+      "variant_id": 1498101399,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2000 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 2000",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "PALERMO (9)",
+    "store_a": {
+      "product_id": 267716171,
+      "variant_id": 1188125264,
+      "stock": 4
+    },
+    "store_b": {
+      "product_id": 336983895,
+      "variant_id": 1498101402,
+      "stock": 9
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2000 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 2000",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "RIQUELME (10)",
+    "store_a": {
+      "product_id": 267716171,
+      "variant_id": 1188125269,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983895,
+      "variant_id": 1498101408,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2000 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 2000",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267716171,
+      "variant_id": 1212682515,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983895,
+      "variant_id": 1498101412,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Inter 97/98 IMPORTADA",
+    "model_b": "Camiseta Inter 97/98 IMPORTADA",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267721198,
+      "variant_id": 1188142839,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576617,
+      "variant_id": 1479568360,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Inter 97/98 IMPORTADA",
+    "model_b": "Camiseta Inter 97/98 IMPORTADA",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267721198,
+      "variant_id": 1188142842,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576617,
+      "variant_id": 1479568368,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Inter 97/98 IMPORTADA",
+    "model_b": "Camiseta Inter 97/98 IMPORTADA",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267721198,
+      "variant_id": 1188142845,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 332576617,
+      "variant_id": 1479568373,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Inter 97/98 IMPORTADA",
+    "model_b": "Camiseta Inter 97/98 IMPORTADA",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267721198,
+      "variant_id": 1188142849,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576617,
+      "variant_id": 1479568379,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Alemania 1992 IMPORTADA",
+    "model_b": "Camiseta Alemania Retro 1992",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267721642,
+      "variant_id": 1188144439,
+      "stock": 5
+    },
+    "store_b": {
+      "product_id": 336983890,
+      "variant_id": 1498101356,
+      "stock": 5
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Alemania 1992 IMPORTADA",
+    "model_b": "Camiseta Alemania Retro 1992",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267721642,
+      "variant_id": 1188144443,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 336983890,
+      "variant_id": 1498101361,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Alemania 1992 IMPORTADA",
+    "model_b": "Camiseta Alemania Retro 1992",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267721642,
+      "variant_id": 1188144446,
+      "stock": 11
+    },
+    "store_b": {
+      "product_id": 336983890,
+      "variant_id": 1498101364,
+      "stock": 11
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Alemania 1992 IMPORTADA",
+    "model_b": "Camiseta Alemania Retro 1992",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267721642,
+      "variant_id": 1188144449,
+      "stock": 6
+    },
+    "store_b": {
+      "product_id": 336983890,
+      "variant_id": 1498101369,
+      "stock": 7
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester United Suplente 86/87",
+    "model_b": "Camiseta Manchester United 86/87 Suplente",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267721840,
+      "variant_id": 1188145000,
+      "stock": 6
+    },
+    "store_b": {
+      "product_id": 336983705,
+      "variant_id": 1498100906,
+      "stock": 6
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester United Suplente 86/87",
+    "model_b": "Camiseta Manchester United 86/87 Suplente",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267721840,
+      "variant_id": 1188145003,
+      "stock": 6
+    },
+    "store_b": {
+      "product_id": 336983705,
+      "variant_id": 1498100917,
+      "stock": 6
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester United Suplente 86/87",
+    "model_b": "Camiseta Manchester United 86/87 Suplente",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267721840,
+      "variant_id": 1188145006,
+      "stock": 9
+    },
+    "store_b": {
+      "product_id": 336983705,
+      "variant_id": 1498100924,
+      "stock": 11
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester United Suplente 86/87",
+    "model_b": "Camiseta Manchester United 86/87 Suplente",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267721840,
+      "variant_id": 1188145009,
+      "stock": 5
+    },
+    "store_b": {
+      "product_id": 336983705,
+      "variant_id": 1498100928,
+      "stock": 5
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Milan 2006 Titular IMPORTADA",
+    "model_b": "Camiseta Milan 2006 Titular",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267722119,
+      "variant_id": 1188146279,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576572,
+      "variant_id": 1479568179,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Milan 2006 Titular IMPORTADA",
+    "model_b": "Camiseta Milan 2006 Titular",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "KAKÁ (22)",
+    "store_a": {
+      "product_id": 267722119,
+      "variant_id": 1262732910,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576572,
+      "variant_id": 1479568191,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Milan 2006 Titular IMPORTADA",
+    "model_b": "Camiseta Milan 2006 Titular",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267722119,
+      "variant_id": 1188146285,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576572,
+      "variant_id": 1479568198,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Milan 2006 Titular IMPORTADA",
+    "model_b": "Camiseta Milan 2006 Titular",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "KAKÁ (22)",
+    "store_a": {
+      "product_id": 267722119,
+      "variant_id": 1262732916,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576572,
+      "variant_id": 1479568203,
+      "stock": 4
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Milan 2006 Titular IMPORTADA",
+    "model_b": "Camiseta Milan 2006 Titular",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267722119,
+      "variant_id": 1188146289,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 332576572,
+      "variant_id": 1479568209,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Milan 2006 Titular IMPORTADA",
+    "model_b": "Camiseta Milan 2006 Titular",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "KAKÁ (22)",
+    "store_a": {
+      "product_id": 267722119,
+      "variant_id": 1262732924,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576572,
+      "variant_id": 1479568219,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Milan 2006 Titular IMPORTADA",
+    "model_b": "Camiseta Milan 2006 Titular",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267722119,
+      "variant_id": 1188146293,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576572,
+      "variant_id": 1479568224,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Milan 2006 Titular IMPORTADA",
+    "model_b": "Camiseta Milan 2006 Titular",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "KAKÁ (22)",
+    "store_a": {
+      "product_id": 267722119,
+      "variant_id": 1262732935,
+      "stock": 6
+    },
+    "store_b": {
+      "product_id": 332576572,
+      "variant_id": 1479568230,
+      "stock": 6
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Barcelona Alternativa 96/97 IMPORTADA",
+    "model_b": "Camiseta Barcelona Alternativa 96/97",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267722293,
+      "variant_id": 1188146552,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 332576564,
+      "variant_id": 1479568138,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Barcelona Alternativa 96/97 IMPORTADA",
+    "model_b": "Camiseta Barcelona Alternativa 96/97",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267722293,
+      "variant_id": 1188146555,
+      "stock": 5
+    },
+    "store_b": {
+      "product_id": 332576564,
+      "variant_id": 1479568160,
+      "stock": 5
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Barcelona Alternativa 96/97 IMPORTADA",
+    "model_b": "Camiseta Barcelona Alternativa 96/97",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267722293,
+      "variant_id": 1188146559,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 332576564,
+      "variant_id": 1479568166,
+      "stock": 4
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Barcelona Alternativa 96/97 IMPORTADA",
+    "model_b": "Camiseta Barcelona Alternativa 96/97",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267722293,
+      "variant_id": 1188146562,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 332576564,
+      "variant_id": 1479568172,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester City 97/99 IMPORTADA",
+    "model_b": "Camiseta Manchester City 97/99",
+    "similarity": 1.0,
+    "talle": "S",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267722539,
+      "variant_id": 1357195389,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576555,
+      "variant_id": 1479568025,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester City 97/99 IMPORTADA",
+    "model_b": "Camiseta Manchester City 97/99",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267722539,
+      "variant_id": 1188147151,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 332576555,
+      "variant_id": 1479568064,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester City 97/99 IMPORTADA",
+    "model_b": "Camiseta Manchester City 97/99",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267722539,
+      "variant_id": 1188147153,
+      "stock": 5
+    },
+    "store_b": {
+      "product_id": 332576555,
+      "variant_id": 1479568086,
+      "stock": 7
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester City 97/99 IMPORTADA",
+    "model_b": "Camiseta Manchester City 97/99",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267722539,
+      "variant_id": 1188147157,
+      "stock": 5
+    },
+    "store_b": {
+      "product_id": 332576555,
+      "variant_id": 1479568106,
+      "stock": 7
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester City 97/99 IMPORTADA",
+    "model_b": "Camiseta Manchester City 97/99",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267722539,
+      "variant_id": 1188147160,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 332576555,
+      "variant_id": 1479568122,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Francia 1998 Zidane - IMPORTADA",
+    "model_b": "Camiseta Francia 1998 Zidane",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "ZIDANE (10)",
+    "store_a": {
+      "product_id": 267722754,
+      "variant_id": 1365233614,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576530,
+      "variant_id": 1479567910,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Francia 1998 Zidane - IMPORTADA",
+    "model_b": "Camiseta Francia 1998 Zidane",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267722754,
+      "variant_id": 1188147660,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576530,
+      "variant_id": 1479567922,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Francia 1998 Zidane - IMPORTADA",
+    "model_b": "Camiseta Francia 1998 Zidane",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "ZIDANE (10)",
+    "store_a": {
+      "product_id": 267722754,
+      "variant_id": 1365233621,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576530,
+      "variant_id": 1479567927,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Francia 1998 Zidane - IMPORTADA",
+    "model_b": "Camiseta Francia 1998 Zidane",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267722754,
+      "variant_id": 1188147664,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576530,
+      "variant_id": 1479567932,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Francia 1998 Zidane - IMPORTADA",
+    "model_b": "Camiseta Francia 1998 Zidane",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "ZIDANE (10)",
+    "store_a": {
+      "product_id": 267722754,
+      "variant_id": 1365233628,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576530,
+      "variant_id": 1479567945,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Francia 1998 Zidane - IMPORTADA",
+    "model_b": "Camiseta Francia 1998 Zidane",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267722754,
+      "variant_id": 1188147669,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576530,
+      "variant_id": 1479567964,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Francia 1998 Zidane - IMPORTADA",
+    "model_b": "Camiseta Francia 1998 Zidane",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "ZIDANE (10)",
+    "store_a": {
+      "product_id": 267722754,
+      "variant_id": 1365233634,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576530,
+      "variant_id": 1479567980,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Francia 1998 Zidane - IMPORTADA",
+    "model_b": "Camiseta Francia 1998 Zidane",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267722754,
+      "variant_id": 1188147672,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576530,
+      "variant_id": 1479568002,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 1995 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 1995",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267722948,
+      "variant_id": 1188148600,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 348367527,
+      "variant_id": 1537240484,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 1995 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 1995",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267722948,
+      "variant_id": 1188148604,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 348367527,
+      "variant_id": 1537240491,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 1995 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 1995",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267722948,
+      "variant_id": 1188148606,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 348367527,
+      "variant_id": 1537240497,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 1995 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 1995",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267722948,
+      "variant_id": 1188148609,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 348367527,
+      "variant_id": 1537240505,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River 1996 Titular IMPORTADA",
+    "model_b": "Camiseta River 1996 Titular",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267723609,
+      "variant_id": 1188150733,
+      "stock": 4
+    },
+    "store_b": {
+      "product_id": 348368911,
+      "variant_id": 1537243434,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River 1996 Titular IMPORTADA",
+    "model_b": "Camiseta River 1996 Titular",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267723609,
+      "variant_id": 1188150741,
+      "stock": 14
+    },
+    "store_b": {
+      "product_id": 348368911,
+      "variant_id": 1537243447,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River 1996 Titular IMPORTADA",
+    "model_b": "Camiseta River 1996 Titular",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267723609,
+      "variant_id": 1188150747,
+      "stock": 8
+    },
+    "store_b": {
+      "product_id": 348368911,
+      "variant_id": 1537243463,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River 1996 Titular IMPORTADA",
+    "model_b": "Camiseta River 1996 Titular",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267723609,
+      "variant_id": 1188150754,
+      "stock": 5
+    },
+    "store_b": {
+      "product_id": 348368911,
+      "variant_id": 1537243474,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River Plate 96/97 Titular IMPORTADA",
+    "model_b": "Camiseta River 96/97 Titular",
+    "similarity": 1.0,
+    "talle": "S",
+    "player": "FRANCESCOLI (9)",
+    "store_a": {
+      "product_id": 271525350,
+      "variant_id": 1413505086,
+      "stock": 0
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "River Plate 96/97 Titular IMPORTADA",
+    "model_b": "Camiseta River 96/97 Titular",
+    "similarity": 1.0,
+    "talle": "S",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 271525350,
+      "variant_id": 1413505106,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983976,
+      "variant_id": 1498101586,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River Plate 96/97 Titular IMPORTADA",
+    "model_b": "Camiseta River 96/97 Titular",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "FRANCESCOLI (9)",
+    "store_a": {
+      "product_id": 271525350,
+      "variant_id": 1212690825,
+      "stock": 7
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "River Plate 96/97 Titular IMPORTADA",
+    "model_b": "Camiseta River 96/97 Titular",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 271525350,
+      "variant_id": 1212687163,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983976,
+      "variant_id": 1498101593,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River Plate 96/97 Titular IMPORTADA",
+    "model_b": "Camiseta River 96/97 Titular",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "FRANCESCOLI (9)",
+    "store_a": {
+      "product_id": 271525350,
+      "variant_id": 1212690829,
+      "stock": 10
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "River Plate 96/97 Titular IMPORTADA",
+    "model_b": "Camiseta River 96/97 Titular",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 271525350,
+      "variant_id": 1212687177,
+      "stock": 11
+    },
+    "store_b": {
+      "product_id": 336983976,
+      "variant_id": 1498101599,
+      "stock": 11
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River Plate 96/97 Titular IMPORTADA",
+    "model_b": "Camiseta River 96/97 Titular",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "FRANCESCOLI (9)",
+    "store_a": {
+      "product_id": 271525350,
+      "variant_id": 1212690832,
+      "stock": 9
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "River Plate 96/97 Titular IMPORTADA",
+    "model_b": "Camiseta River 96/97 Titular",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 271525350,
+      "variant_id": 1212687188,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 336983976,
+      "variant_id": 1498101607,
+      "stock": 4
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River Plate 96/97 Titular IMPORTADA",
+    "model_b": "Camiseta River 96/97 Titular",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "FRANCESCOLI (9)",
+    "store_a": {
+      "product_id": 271525350,
+      "variant_id": 1212690836,
+      "stock": 4
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "River Plate 96/97 Titular IMPORTADA",
+    "model_b": "Camiseta River 96/97 Titular",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 271525350,
+      "variant_id": 1212687201,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 336983976,
+      "variant_id": 1498101613,
+      "stock": 5
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River 1996 Suplente IMPORTADA",
+    "model_b": "Camiseta River 1996 Suplente",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 271526248,
+      "variant_id": 1212692370,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983884,
+      "variant_id": 1498101341,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River 1996 Suplente IMPORTADA",
+    "model_b": "Camiseta River 1996 Suplente",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 271526248,
+      "variant_id": 1212692375,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 336983884,
+      "variant_id": 1498101347,
+      "stock": 4
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River 1996 Suplente IMPORTADA",
+    "model_b": "Camiseta River 1996 Suplente",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 271526248,
+      "variant_id": 1212692378,
+      "stock": 4
+    },
+    "store_b": {
+      "product_id": 336983884,
+      "variant_id": 1498101351,
+      "stock": 4
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River 1996 Suplente IMPORTADA",
+    "model_b": "Camiseta River 1996 Suplente",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 271526248,
+      "variant_id": 1212692380,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983884,
+      "variant_id": 1498101354,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester United 2008 IMPORTADA",
+    "model_b": "Camiseta Manchester United 2008",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "RONALDO (7)",
+    "store_a": {
+      "product_id": 271527241,
+      "variant_id": 1212699530,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576363,
+      "variant_id": 1479567066,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester United 2008 IMPORTADA",
+    "model_b": "Camiseta Manchester United 2008",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "RONALDO (7)",
+    "store_a": {
+      "product_id": 271527241,
+      "variant_id": 1212699534,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 332576363,
+      "variant_id": 1479567078,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester United 2008 IMPORTADA",
+    "model_b": "Camiseta Manchester United 2008",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "RONALDO (7)",
+    "store_a": {
+      "product_id": 271527241,
+      "variant_id": 1212699539,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576363,
+      "variant_id": 1479567083,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester United 2008 IMPORTADA",
+    "model_b": "Camiseta Manchester United 2008",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "RONALDO (7)",
+    "store_a": {
+      "product_id": 271527241,
+      "variant_id": 1212699542,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 332576363,
+      "variant_id": 1479567087,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Arsenal 05/06 Henry - IMPORTADA",
+    "model_b": "Camiseta Arsenal Retro 05/06 - Henry",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "HENRY (14)",
+    "store_a": {
+      "product_id": 282282748,
+      "variant_id": 1262689456,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983930,
+      "variant_id": 1498101456,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Arsenal 05/06 Henry - IMPORTADA",
+    "model_b": "Camiseta Arsenal Retro 05/06 - Henry",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "HENRY (14)",
+    "store_a": {
+      "product_id": 282282748,
+      "variant_id": 1262689468,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983930,
+      "variant_id": 1498101467,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Arsenal 05/06 Henry - IMPORTADA",
+    "model_b": "Camiseta Arsenal Retro 05/06 - Henry",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "HENRY (14)",
+    "store_a": {
+      "product_id": 282282748,
+      "variant_id": 1262689481,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983930,
+      "variant_id": 1498101473,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Arsenal 05/06 Henry - IMPORTADA",
+    "model_b": "Camiseta Arsenal Retro 05/06 - Henry",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "HENRY (14)",
+    "store_a": {
+      "product_id": 282282748,
+      "variant_id": 1262689491,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983930,
+      "variant_id": 1498101476,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina 1998 Titular IMPORTADA",
+    "model_b": "Argentina Mundial 1998 Titular",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 282286781,
+      "variant_id": 1262701769,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 348371303,
+      "variant_id": 1537248761,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina 1998 Titular IMPORTADA",
+    "model_b": "Argentina Mundial 1998 Titular",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 282286781,
+      "variant_id": 1262701777,
+      "stock": 7
+    },
+    "store_b": {
+      "product_id": 348371303,
+      "variant_id": 1537248772,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina 1998 Titular IMPORTADA",
+    "model_b": "Argentina Mundial 1998 Titular",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 282286781,
+      "variant_id": 1262701782,
+      "stock": 13
+    },
+    "store_b": {
+      "product_id": 348371303,
+      "variant_id": 1537248778,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina 1998 Titular IMPORTADA",
+    "model_b": "Argentina Mundial 1998 Titular",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 282286781,
+      "variant_id": 1262701791,
+      "stock": 5
+    },
+    "store_b": {
+      "product_id": 348371303,
+      "variant_id": 1537248783,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina Mundial 1998 Suplente",
+    "model_b": "Argentina Mundial 1998 Suplente",
+    "similarity": 1.0,
+    "talle": "S",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 282287372,
+      "variant_id": 1352529383,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983819,
+      "variant_id": 1498101194,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina Mundial 1998 Suplente",
+    "model_b": "Argentina Mundial 1998 Suplente",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 282287372,
+      "variant_id": 1262703753,
+      "stock": 6
+    },
+    "store_b": {
+      "product_id": 336983819,
+      "variant_id": 1498101197,
+      "stock": 7
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina Mundial 1998 Suplente",
+    "model_b": "Argentina Mundial 1998 Suplente",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 282287372,
+      "variant_id": 1262703764,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983819,
+      "variant_id": 1498101201,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina Mundial 1998 Suplente",
+    "model_b": "Argentina Mundial 1998 Suplente",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 282287372,
+      "variant_id": 1262703767,
+      "stock": 4
+    },
+    "store_b": {
+      "product_id": 336983819,
+      "variant_id": 1498101203,
+      "stock": 6
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina Mundial 1998 Suplente",
+    "model_b": "Argentina Mundial 1998 Suplente",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 282287372,
+      "variant_id": 1262703774,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983819,
+      "variant_id": 1498101210,
+      "stock": 6
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River 98/99 Tricolor IMPORTADA",
+    "model_b": "Camiseta River 98/99 Tricolor",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 282290706,
+      "variant_id": 1262717629,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 336983801,
+      "variant_id": 1498101145,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River 98/99 Tricolor IMPORTADA",
+    "model_b": "Camiseta River 98/99 Tricolor",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 282290706,
+      "variant_id": 1262717636,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983801,
+      "variant_id": 1498101155,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River 98/99 Tricolor IMPORTADA",
+    "model_b": "Camiseta River 98/99 Tricolor",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 282290706,
+      "variant_id": 1262717640,
+      "stock": 7
+    },
+    "store_b": {
+      "product_id": 336983801,
+      "variant_id": 1498101160,
+      "stock": 7
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River 98/99 Tricolor IMPORTADA",
+    "model_b": "Camiseta River 98/99 Tricolor",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 282290706,
+      "variant_id": 1262717644,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983801,
+      "variant_id": 1498101163,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Fiorentina Titular 1998 IMPORTADA",
+    "model_b": "Camiseta Fiorentina Titular 1998",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 282295210,
+      "variant_id": 1262742133,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 336983809,
+      "variant_id": 1498101166,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Fiorentina Titular 1998 IMPORTADA",
+    "model_b": "Camiseta Fiorentina Titular 1998",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 282295210,
+      "variant_id": 1262742137,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983809,
+      "variant_id": 1498101182,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Fiorentina Titular 1998 IMPORTADA",
+    "model_b": "Camiseta Fiorentina Titular 1998",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 282295210,
+      "variant_id": 1262742142,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983809,
+      "variant_id": 1498101186,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Fiorentina Titular 1998 IMPORTADA",
+    "model_b": "Camiseta Fiorentina Titular 1998",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 282295210,
+      "variant_id": 1262742144,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 336983809,
+      "variant_id": 1498101189,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Liverpool 95/96",
+    "model_b": "Camiseta Liverpool Retro 95/96",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 285925891,
+      "variant_id": 1280106202,
+      "stock": 25
+    },
+    "store_b": {
+      "product_id": 336983970,
+      "variant_id": 1498101566,
+      "stock": 25
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Liverpool 95/96",
+    "model_b": "Camiseta Liverpool Retro 95/96",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 285925891,
+      "variant_id": 1280106205,
+      "stock": 24
+    },
+    "store_b": {
+      "product_id": 336983970,
+      "variant_id": 1498101571,
+      "stock": 24
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Liverpool 95/96",
+    "model_b": "Camiseta Liverpool Retro 95/96",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 285925891,
+      "variant_id": 1280106207,
+      "stock": 21
+    },
+    "store_b": {
+      "product_id": 336983970,
+      "variant_id": 1498101575,
+      "stock": 21
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Liverpool 95/96",
+    "model_b": "Camiseta Liverpool Retro 95/96",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 285925891,
+      "variant_id": 1280106210,
+      "stock": 9
+    },
+    "store_b": {
+      "product_id": 336983970,
+      "variant_id": 1498101581,
+      "stock": 11
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. Centenario 2005 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Centenario 2005",
+    "similarity": 1.0,
+    "talle": "S",
+    "player": "PALERMO (9)",
+    "store_a": {
+      "product_id": 303671012,
+      "variant_id": 1352526720,
+      "stock": 0
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "Boca Jrs. Centenario 2005 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Centenario 2005",
+    "similarity": 1.0,
+    "talle": "S",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 303671012,
+      "variant_id": 1370534220,
+      "stock": 0
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "Boca Jrs. Centenario 2005 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Centenario 2005",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "PALERMO (9)",
+    "store_a": {
+      "product_id": 303671012,
+      "variant_id": 1351348313,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983829,
+      "variant_id": 1498101212,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. Centenario 2005 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Centenario 2005",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 303671012,
+      "variant_id": 1370534228,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983829,
+      "variant_id": 1537260819,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. Centenario 2005 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Centenario 2005",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "PALERMO (9)",
+    "store_a": {
+      "product_id": 303671012,
+      "variant_id": 1351348327,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 336983829,
+      "variant_id": 1498101216,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. Centenario 2005 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Centenario 2005",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 303671012,
+      "variant_id": 1370534234,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983829,
+      "variant_id": 1537260822,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. Centenario 2005 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Centenario 2005",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "PALERMO (9)",
+    "store_a": {
+      "product_id": 303671012,
+      "variant_id": 1351348335,
+      "stock": 4
+    },
+    "store_b": {
+      "product_id": 336983829,
+      "variant_id": 1498101221,
+      "stock": 5
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. Centenario 2005 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Centenario 2005",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 303671012,
+      "variant_id": 1370534238,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983829,
+      "variant_id": 1537260824,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. Centenario 2005 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Centenario 2005",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "PALERMO (9)",
+    "store_a": {
+      "product_id": 303671012,
+      "variant_id": 1351348344,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983829,
+      "variant_id": 1498101227,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. Centenario 2005 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Centenario 2005",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 303671012,
+      "variant_id": 1370534245,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983829,
+      "variant_id": 1537260827,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester City 99/00 IMPORTADA",
+    "model_b": "Camiseta Manchester City 99/00",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 303671865,
+      "variant_id": 1351353222,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 332575835,
+      "variant_id": 1479565145,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester City 99/00 IMPORTADA",
+    "model_b": "Camiseta Manchester City 99/00",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 303671865,
+      "variant_id": 1351353229,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 332575835,
+      "variant_id": 1479565152,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester City 99/00 IMPORTADA",
+    "model_b": "Camiseta Manchester City 99/00",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 303671865,
+      "variant_id": 1351353234,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 332575835,
+      "variant_id": 1479565161,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester City 99/00 IMPORTADA",
+    "model_b": "Camiseta Manchester City 99/00",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 303671865,
+      "variant_id": 1351353242,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 332575835,
+      "variant_id": 1479565164,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Chelsea Champions 2008 IMPORTADA",
+    "model_b": "Camiseta Chelsea Champions 2008",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 303673064,
+      "variant_id": 1351359192,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575809,
+      "variant_id": 1479565026,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Chelsea Champions 2008 IMPORTADA",
+    "model_b": "Camiseta Chelsea Champions 2008",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 303673064,
+      "variant_id": 1351359198,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575809,
+      "variant_id": 1479565040,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Chelsea Champions 2008 IMPORTADA",
+    "model_b": "Camiseta Chelsea Champions 2008",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 303673064,
+      "variant_id": 1351359202,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 332575809,
+      "variant_id": 1479565047,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Chelsea Champions 2008 IMPORTADA",
+    "model_b": "Camiseta Chelsea Champions 2008",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 303673064,
+      "variant_id": 1351359207,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575809,
+      "variant_id": 1479565055,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Japon 1998 IMPORTADA",
+    "model_b": "Camiseta Japon Mundial 1998",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 303673355,
+      "variant_id": 1351360494,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 336983745,
+      "variant_id": 1498101019,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Japon 1998 IMPORTADA",
+    "model_b": "Camiseta Japon Mundial 1998",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 303673355,
+      "variant_id": 1351360499,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 336983745,
+      "variant_id": 1498101025,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Japon 1998 IMPORTADA",
+    "model_b": "Camiseta Japon Mundial 1998",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 303673355,
+      "variant_id": 1351360503,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 336983745,
+      "variant_id": 1498101028,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Japon 1998 IMPORTADA",
+    "model_b": "Camiseta Japon Mundial 1998",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 303673355,
+      "variant_id": 1351360508,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983745,
+      "variant_id": 1498101032,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2007 Dorada - Edicion Especial",
+    "model_b": "Boca Jrs. 2007 Dorada - Edicion Especial",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313285179,
+      "variant_id": 1388201779,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575707,
+      "variant_id": 1479564632,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2007 Dorada - Edicion Especial",
+    "model_b": "Boca Jrs. 2007 Dorada - Edicion Especial",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313285179,
+      "variant_id": 1388201790,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575707,
+      "variant_id": 1479564656,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2007 Dorada - Edicion Especial",
+    "model_b": "Boca Jrs. 2007 Dorada - Edicion Especial",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313285179,
+      "variant_id": 1388201798,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575707,
+      "variant_id": 1479564669,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2007 Dorada - Edicion Especial",
+    "model_b": "Boca Jrs. 2007 Dorada - Edicion Especial",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313285179,
+      "variant_id": 1388201805,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575707,
+      "variant_id": 1479564681,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2008 Titular - IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 2008 Titular",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "PALERMO (9)",
+    "store_a": {
+      "product_id": 313287232,
+      "variant_id": 1388207548,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575680,
+      "variant_id": 1479564432,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2008 Titular - IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 2008 Titular",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313287232,
+      "variant_id": 1437551057,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575680,
+      "variant_id": 1479564459,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2008 Titular - IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 2008 Titular",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "PALERMO (9)",
+    "store_a": {
+      "product_id": 313287232,
+      "variant_id": 1388207554,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575680,
+      "variant_id": 1479564483,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2008 Titular - IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 2008 Titular",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313287232,
+      "variant_id": 1437551078,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575680,
+      "variant_id": 1479564506,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2008 Titular - IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 2008 Titular",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "PALERMO (9)",
+    "store_a": {
+      "product_id": 313287232,
+      "variant_id": 1388207559,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575680,
+      "variant_id": 1479564528,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2008 Titular - IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 2008 Titular",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313287232,
+      "variant_id": 1437551086,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575680,
+      "variant_id": 1479564552,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2008 Titular - IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 2008 Titular",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "PALERMO (9)",
+    "store_a": {
+      "product_id": 313287232,
+      "variant_id": 1388207564,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575680,
+      "variant_id": 1479564582,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2008 Titular - IMPORTADA",
+    "model_b": "Camiseta Boca Juniors 2008 Titular",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313287232,
+      "variant_id": 1437551095,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575680,
+      "variant_id": 1479564612,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "San Lorenzo Libertadores 2014 IMPORTADA",
+    "model_b": "Camiseta San Lorenzo Libertadores 2014",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313294830,
+      "variant_id": 1388223860,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575586,
+      "variant_id": 1479564094,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "San Lorenzo Libertadores 2014 IMPORTADA",
+    "model_b": "Camiseta San Lorenzo Libertadores 2014",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313294830,
+      "variant_id": 1388223862,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 332575586,
+      "variant_id": 1479564110,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "San Lorenzo Libertadores 2014 IMPORTADA",
+    "model_b": "Camiseta San Lorenzo Libertadores 2014",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313294830,
+      "variant_id": 1388223867,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 332575586,
+      "variant_id": 1479564116,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "San Lorenzo Libertadores 2014 IMPORTADA",
+    "model_b": "Camiseta San Lorenzo Libertadores 2014",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313294830,
+      "variant_id": 1388223871,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575586,
+      "variant_id": 1479564126,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Independiente 1998/00 IMPORTADA",
+    "model_b": "Camiseta Independiente 1998/00",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313295162,
+      "variant_id": 1388224949,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 332575576,
+      "variant_id": 1479564050,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Independiente 1998/00 IMPORTADA",
+    "model_b": "Camiseta Independiente 1998/00",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313295162,
+      "variant_id": 1388224952,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 332575576,
+      "variant_id": 1479564065,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Independiente 1998/00 IMPORTADA",
+    "model_b": "Camiseta Independiente 1998/00",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313295162,
+      "variant_id": 1388224956,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 332575576,
+      "variant_id": 1479564072,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Independiente 1998/00 IMPORTADA",
+    "model_b": "Camiseta Independiente 1998/00",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313295162,
+      "variant_id": 1388224957,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 332575576,
+      "variant_id": 1479564081,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Milan 2009 Ronaldinho - IMPORTADA",
+    "model_b": "Camiseta Milan 2009 Ronaldinho",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "RONALDINHO (80)",
+    "store_a": {
+      "product_id": 313295421,
+      "variant_id": 1388228171,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 332575568,
+      "variant_id": 1479564012,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Milan 2009 Ronaldinho - IMPORTADA",
+    "model_b": "Camiseta Milan 2009 Ronaldinho",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "RONALDINHO (80)",
+    "store_a": {
+      "product_id": 313295421,
+      "variant_id": 1388228174,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 332575568,
+      "variant_id": 1479564028,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Milan 2009 Ronaldinho - IMPORTADA",
+    "model_b": "Camiseta Milan 2009 Ronaldinho",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "RONALDINHO (80)",
+    "store_a": {
+      "product_id": 313295421,
+      "variant_id": 1388228177,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575568,
+      "variant_id": 1479564037,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Milan 2009 Ronaldinho - IMPORTADA",
+    "model_b": "Camiseta Milan 2009 Ronaldinho",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "RONALDINHO (80)",
+    "store_a": {
+      "product_id": 313295421,
+      "variant_id": 1388228179,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575568,
+      "variant_id": 1479564041,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Barcelona Champions 2009 (Messi) IMPORTADA",
+    "model_b": "Camiseta Barcelona Champions 2009 (Messi)",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "MESSI (10)",
+    "store_a": {
+      "product_id": 313295695,
+      "variant_id": 1388227732,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575559,
+      "variant_id": 1479563978,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Barcelona Champions 2009 (Messi) IMPORTADA",
+    "model_b": "Camiseta Barcelona Champions 2009 (Messi)",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "MESSI (10)",
+    "store_a": {
+      "product_id": 313295695,
+      "variant_id": 1388227737,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575559,
+      "variant_id": 1479563992,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Barcelona Champions 2009 (Messi) IMPORTADA",
+    "model_b": "Camiseta Barcelona Champions 2009 (Messi)",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "MESSI (10)",
+    "store_a": {
+      "product_id": 313295695,
+      "variant_id": 1388227743,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575559,
+      "variant_id": 1479563999,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Barcelona Champions 2009 (Messi) IMPORTADA",
+    "model_b": "Camiseta Barcelona Champions 2009 (Messi)",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "MESSI (10)",
+    "store_a": {
+      "product_id": 313295695,
+      "variant_id": 1388227749,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575559,
+      "variant_id": 1479564005,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Brasil Mundial 2002 Ronaldo - IMPORTADA",
+    "model_b": "Camiseta Brasil Mundial 2002 Ronaldo",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "RONALDO (9)",
+    "store_a": {
+      "product_id": 313296891,
+      "variant_id": 1388231749,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575521,
+      "variant_id": 1479563798,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Brasil Mundial 2002 Ronaldo - IMPORTADA",
+    "model_b": "Camiseta Brasil Mundial 2002 Ronaldo",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "RONALDO (9)",
+    "store_a": {
+      "product_id": 313296891,
+      "variant_id": 1388231752,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 332575521,
+      "variant_id": 1479563813,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Brasil Mundial 2002 Ronaldo - IMPORTADA",
+    "model_b": "Camiseta Brasil Mundial 2002 Ronaldo",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "RONALDO (9)",
+    "store_a": {
+      "product_id": 313296891,
+      "variant_id": 1388231757,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 332575521,
+      "variant_id": 1479563820,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Brasil Mundial 2002 Ronaldo - IMPORTADA",
+    "model_b": "Camiseta Brasil Mundial 2002 Ronaldo",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "RONALDO (9)",
+    "store_a": {
+      "product_id": 313296891,
+      "variant_id": 1388231771,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 332575521,
+      "variant_id": 1479563829,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Santos 2012 Neymar",
+    "model_b": "Camiseta Santos 2012 Neymar",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "NEYMAR JR. (11)",
+    "store_a": {
+      "product_id": 313297178,
+      "variant_id": 1388232839,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575508,
+      "variant_id": 1479563754,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Santos 2012 Neymar",
+    "model_b": "Camiseta Santos 2012 Neymar",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "NEYMAR JR. (11)",
+    "store_a": {
+      "product_id": 313297178,
+      "variant_id": 1388232843,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 332575508,
+      "variant_id": 1479563771,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Santos 2012 Neymar",
+    "model_b": "Camiseta Santos 2012 Neymar",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "NEYMAR JR. (11)",
+    "store_a": {
+      "product_id": 313297178,
+      "variant_id": 1388232851,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 332575508,
+      "variant_id": 1479563783,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Santos 2012 Neymar",
+    "model_b": "Camiseta Santos 2012 Neymar",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "NEYMAR JR. (11)",
+    "store_a": {
+      "product_id": 313297178,
+      "variant_id": 1388232857,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575508,
+      "variant_id": 1479563791,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Juniors 1981 Maradona",
+    "model_b": "Camiseta Boca 1981 Maradona",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "10 (MARADONA)",
+    "store_a": {
+      "product_id": 335283652,
+      "variant_id": 1491297552,
+      "stock": 9
+    },
+    "store_b": {
+      "product_id": 336983846,
+      "variant_id": 1498101247,
+      "stock": 12
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Juniors 1981 Maradona",
+    "model_b": "Camiseta Boca 1981 Maradona",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "10 (MARADONA)",
+    "store_a": {
+      "product_id": 335283652,
+      "variant_id": 1491297557,
+      "stock": 14
+    },
+    "store_b": {
+      "product_id": 336983846,
+      "variant_id": 1498101254,
+      "stock": 22
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Juniors 1981 Maradona",
+    "model_b": "Camiseta Boca 1981 Maradona",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "10 (MARADONA)",
+    "store_a": {
+      "product_id": 335283652,
+      "variant_id": 1491297559,
+      "stock": 15
+    },
+    "store_b": {
+      "product_id": 336983846,
+      "variant_id": 1498101257,
+      "stock": 23
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Juniors 1981 Maradona",
+    "model_b": "Camiseta Boca 1981 Maradona",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "10 (MARADONA)",
+    "store_a": {
+      "product_id": 335283652,
+      "variant_id": 1491297563,
+      "stock": 10
+    },
+    "store_b": {
+      "product_id": 336983846,
+      "variant_id": 1498101261,
+      "stock": 10
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River 2001 Titular IMPORTADA",
+    "model_b": "Camiseta River 2001 Titular",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "ORTEGA (10)",
+    "store_a": {
+      "product_id": 335285513,
+      "variant_id": 1491303928,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 336983915,
+      "variant_id": 1498101416,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River 2001 Titular IMPORTADA",
+    "model_b": "Camiseta River 2001 Titular",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 335285513,
+      "variant_id": 1491303931,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 336983915,
+      "variant_id": 1498101430,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River 2001 Titular IMPORTADA",
+    "model_b": "Camiseta River 2001 Titular",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "ORTEGA (10)",
+    "store_a": {
+      "product_id": 335285513,
+      "variant_id": 1491303933,
+      "stock": 4
+    },
+    "store_b": {
+      "product_id": 336983915,
+      "variant_id": 1498101435,
+      "stock": 4
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River 2001 Titular IMPORTADA",
+    "model_b": "Camiseta River 2001 Titular",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 335285513,
+      "variant_id": 1491303935,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983915,
+      "variant_id": 1498101439,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River 2001 Titular IMPORTADA",
+    "model_b": "Camiseta River 2001 Titular",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "ORTEGA (10)",
+    "store_a": {
+      "product_id": 335285513,
+      "variant_id": 1491303938,
+      "stock": 4
+    },
+    "store_b": {
+      "product_id": 336983915,
+      "variant_id": 1498101442,
+      "stock": 4
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River 2001 Titular IMPORTADA",
+    "model_b": "Camiseta River 2001 Titular",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 335285513,
+      "variant_id": 1491303941,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983915,
+      "variant_id": 1498101444,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River 2001 Titular IMPORTADA",
+    "model_b": "Camiseta River 2001 Titular",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "ORTEGA (10)",
+    "store_a": {
+      "product_id": 335285513,
+      "variant_id": 1491303946,
+      "stock": 4
+    },
+    "store_b": {
+      "product_id": 336983915,
+      "variant_id": 1498101450,
+      "stock": 4
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River 2001 Titular IMPORTADA",
+    "model_b": "Camiseta River 2001 Titular",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 335285513,
+      "variant_id": 1491303950,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983915,
+      "variant_id": 1498101452,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River Libertadores 1986 Titular",
+    "model_b": "Camiseta River Libertadores 1986 Titular",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336515304,
+      "variant_id": 1496342251,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983791,
+      "variant_id": 1498101130,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River Libertadores 1986 Titular",
+    "model_b": "Camiseta River Libertadores 1986 Titular",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336515304,
+      "variant_id": 1496342255,
+      "stock": 4
+    },
+    "store_b": {
+      "product_id": 336983791,
+      "variant_id": 1498101137,
+      "stock": 4
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River Libertadores 1986 Titular",
+    "model_b": "Camiseta River Libertadores 1986 Titular",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336515304,
+      "variant_id": 1496342259,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983791,
+      "variant_id": 1498101141,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River Libertadores 1986 Titular",
+    "model_b": "Camiseta River Libertadores 1986 Titular",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336515304,
+      "variant_id": 1496342263,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983791,
+      "variant_id": 1498101143,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Real Madrid 1998/00 Titular",
+    "model_b": "Camiseta Real Madrid 1998/00 Titular",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336515466,
+      "variant_id": 1496343014,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 336983786,
+      "variant_id": 1498101113,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Real Madrid 1998/00 Titular",
+    "model_b": "Camiseta Real Madrid 1998/00 Titular",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336515466,
+      "variant_id": 1496343016,
+      "stock": 4
+    },
+    "store_b": {
+      "product_id": 336983786,
+      "variant_id": 1498101120,
+      "stock": 4
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Real Madrid 1998/00 Titular",
+    "model_b": "Camiseta Real Madrid 1998/00 Titular",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336515466,
+      "variant_id": 1496343020,
+      "stock": 4
+    },
+    "store_b": {
+      "product_id": 336983786,
+      "variant_id": 1498101125,
+      "stock": 4
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Real Madrid 1998/00 Titular",
+    "model_b": "Camiseta Real Madrid 1998/00 Titular",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336515466,
+      "variant_id": 1496343022,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983786,
+      "variant_id": 1498101127,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Bayern Munich Retro 97/98",
+    "model_b": "Camiseta Bayern Munich Retro 97/98",
+    "similarity": 1.0,
+    "talle": "S",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336515549,
+      "variant_id": 1496343314,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983779,
+      "variant_id": 1498101098,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Bayern Munich Retro 97/98",
+    "model_b": "Camiseta Bayern Munich Retro 97/98",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336515549,
+      "variant_id": 1496343319,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983779,
+      "variant_id": 1498101104,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Bayern Munich Retro 97/98",
+    "model_b": "Camiseta Bayern Munich Retro 97/98",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336515549,
+      "variant_id": 1496343323,
+      "stock": 5
+    },
+    "store_b": {
+      "product_id": 336983779,
+      "variant_id": 1498101107,
+      "stock": 5
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Bayern Munich Retro 97/98",
+    "model_b": "Camiseta Bayern Munich Retro 97/98",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336515549,
+      "variant_id": 1496343329,
+      "stock": 4
+    },
+    "store_b": {
+      "product_id": 336983779,
+      "variant_id": 1498101109,
+      "stock": 4
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Bayern Munich Retro 97/98",
+    "model_b": "Camiseta Bayern Munich Retro 97/98",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336515549,
+      "variant_id": 1496343338,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983779,
+      "variant_id": 1498101112,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Brasil 2004 Edicion T90",
+    "model_b": "Camiseta Brasil 2004 Edicion T90",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "RONALDINHO (10)",
+    "store_a": {
+      "product_id": 336515826,
+      "variant_id": 1496344244,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 336983772,
+      "variant_id": 1498101082,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Brasil 2004 Edicion T90",
+    "model_b": "Camiseta Brasil 2004 Edicion T90",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "RONALDINHO (10)",
+    "store_a": {
+      "product_id": 336515826,
+      "variant_id": 1496344248,
+      "stock": 7
+    },
+    "store_b": {
+      "product_id": 336983772,
+      "variant_id": 1498101088,
+      "stock": 8
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Brasil 2004 Edicion T90",
+    "model_b": "Camiseta Brasil 2004 Edicion T90",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "RONALDINHO (10)",
+    "store_a": {
+      "product_id": 336515826,
+      "variant_id": 1496344250,
+      "stock": 4
+    },
+    "store_b": {
+      "product_id": 336983772,
+      "variant_id": 1498101092,
+      "stock": 4
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Brasil 2004 Edicion T90",
+    "model_b": "Camiseta Brasil 2004 Edicion T90",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "RONALDINHO (10)",
+    "store_a": {
+      "product_id": 336515826,
+      "variant_id": 1496344252,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983772,
+      "variant_id": 1498101095,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester United Retro 1998/00",
+    "model_b": "Camiseta Manchester United Retro 1998/00",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336515970,
+      "variant_id": 1496344827,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983765,
+      "variant_id": 1498101069,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester United Retro 1998/00",
+    "model_b": "Camiseta Manchester United Retro 1998/00",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336515970,
+      "variant_id": 1496344830,
+      "stock": 5
+    },
+    "store_b": {
+      "product_id": 336983765,
+      "variant_id": 1498101074,
+      "stock": 5
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester United Retro 1998/00",
+    "model_b": "Camiseta Manchester United Retro 1998/00",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336515970,
+      "variant_id": 1496344833,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983765,
+      "variant_id": 1498101076,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester United Retro 1998/00",
+    "model_b": "Camiseta Manchester United Retro 1998/00",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336515970,
+      "variant_id": 1496344836,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 336983765,
+      "variant_id": 1498101080,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Lazio Suplente 1998/99",
+    "model_b": "Camiseta Lazio Suplente 1998/99",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336516436,
+      "variant_id": 1496346267,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983739,
+      "variant_id": 1498101001,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Lazio Suplente 1998/99",
+    "model_b": "Camiseta Lazio Suplente 1998/99",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336516436,
+      "variant_id": 1496346270,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983739,
+      "variant_id": 1498101009,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Lazio Suplente 1998/99",
+    "model_b": "Camiseta Lazio Suplente 1998/99",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336516436,
+      "variant_id": 1496346273,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 336983739,
+      "variant_id": 1498101011,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Lazio Suplente 1998/99",
+    "model_b": "Camiseta Lazio Suplente 1998/99",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336516436,
+      "variant_id": 1496346276,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983739,
+      "variant_id": 1498101015,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Inter 97/98 Suplente",
+    "model_b": "Camiseta Inter 97/98 Suplente",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336771994,
+      "variant_id": 1497203261,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983729,
+      "variant_id": 1498100978,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Inter 97/98 Suplente",
+    "model_b": "Camiseta Inter 97/98 Suplente",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336771994,
+      "variant_id": 1497203263,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 336983729,
+      "variant_id": 1498100990,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Inter 97/98 Suplente",
+    "model_b": "Camiseta Inter 97/98 Suplente",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336771994,
+      "variant_id": 1497203266,
+      "stock": 4
+    },
+    "store_b": {
+      "product_id": 336983729,
+      "variant_id": 1498100997,
+      "stock": 4
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Inter 97/98 Suplente",
+    "model_b": "Camiseta Inter 97/98 Suplente",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336771994,
+      "variant_id": 1497203267,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983729,
+      "variant_id": 1498100999,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Brasil Mundial 1998 Suplente",
+    "model_b": "Brasil Mundial 1998 Suplente",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336772500,
+      "variant_id": 1497205653,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983721,
+      "variant_id": 1498100957,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Brasil Mundial 1998 Suplente",
+    "model_b": "Brasil Mundial 1998 Suplente",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336772500,
+      "variant_id": 1497205658,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 336983721,
+      "variant_id": 1498100962,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Brasil Mundial 1998 Suplente",
+    "model_b": "Brasil Mundial 1998 Suplente",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336772500,
+      "variant_id": 1497205660,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983721,
+      "variant_id": 1498100968,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Brasil Mundial 1998 Suplente",
+    "model_b": "Brasil Mundial 1998 Suplente",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336772500,
+      "variant_id": 1497205665,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983721,
+      "variant_id": 1498100974,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Napoli 1990 - Maradona",
+    "model_b": "Camiseta Napoli 1990 Maradona",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336772679,
+      "variant_id": 1497206478,
+      "stock": 1
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "Camiseta Napoli 1990 - Maradona",
+    "model_b": "Camiseta Napoli 1990 Maradona",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336772679,
+      "variant_id": 1497206482,
+      "stock": 4
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "Camiseta Napoli 1990 - Maradona",
+    "model_b": "Camiseta Napoli 1990 Maradona",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336772679,
+      "variant_id": 1497206486,
+      "stock": 2
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "Camiseta Napoli 1990 - Maradona",
+    "model_b": "Camiseta Napoli 1990 Maradona",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336772679,
+      "variant_id": 1497206490,
+      "stock": 0
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "Camiseta Alemania Mundial 1990",
+    "model_b": "Camiseta Alemania Mundial 1990",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336772969,
+      "variant_id": 1497208067,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983694,
+      "variant_id": 1498100881,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Alemania Mundial 1990",
+    "model_b": "Camiseta Alemania Mundial 1990",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336772969,
+      "variant_id": 1497208070,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 336983694,
+      "variant_id": 1498100890,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Alemania Mundial 1990",
+    "model_b": "Camiseta Alemania Mundial 1990",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336772969,
+      "variant_id": 1497208073,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983694,
+      "variant_id": 1498100897,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Alemania Mundial 1990",
+    "model_b": "Camiseta Alemania Mundial 1990",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336772969,
+      "variant_id": 1497208076,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983694,
+      "variant_id": 1498100900,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Real Betis Retro 1995",
+    "model_b": "Camiseta Real Betis 1995",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336773115,
+      "variant_id": 1497208628,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 336983687,
+      "variant_id": 1498100862,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Real Betis Retro 1995",
+    "model_b": "Camiseta Real Betis 1995",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336773115,
+      "variant_id": 1497208638,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 336983687,
+      "variant_id": 1498100866,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Real Betis Retro 1995",
+    "model_b": "Camiseta Real Betis 1995",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336773115,
+      "variant_id": 1497208644,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983687,
+      "variant_id": 1498100871,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Real Betis Retro 1995",
+    "model_b": "Camiseta Real Betis 1995",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336773115,
+      "variant_id": 1497208648,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983687,
+      "variant_id": 1498100875,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Milan Dorada 2013/14",
+    "model_b": "Camiseta Milan Dorada 2013/14",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336773550,
+      "variant_id": 1497210632,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983682,
+      "variant_id": 1498100846,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Milan Dorada 2013/14",
+    "model_b": "Camiseta Milan Dorada 2013/14",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336773550,
+      "variant_id": 1497210640,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 336983682,
+      "variant_id": 1498100853,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Milan Dorada 2013/14",
+    "model_b": "Camiseta Milan Dorada 2013/14",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336773550,
+      "variant_id": 1497210644,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 336983682,
+      "variant_id": 1498100855,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Milan Dorada 2013/14",
+    "model_b": "Camiseta Milan Dorada 2013/14",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336773550,
+      "variant_id": 1497210647,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 336983682,
+      "variant_id": 1498100860,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Inter Retro 96/97",
+    "model_b": "Camiseta Inter Retro 96/97",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336773742,
+      "variant_id": 1497211560,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 336983675,
+      "variant_id": 1498100821,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Inter Retro 96/97",
+    "model_b": "Camiseta Inter Retro 96/97",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336773742,
+      "variant_id": 1497211562,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 336983675,
+      "variant_id": 1498100828,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Inter Retro 96/97",
+    "model_b": "Camiseta Inter Retro 96/97",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336773742,
+      "variant_id": 1497211564,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983675,
+      "variant_id": 1498100837,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Inter Retro 96/97",
+    "model_b": "Camiseta Inter Retro 96/97",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336773742,
+      "variant_id": 1497211565,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 336983675,
+      "variant_id": 1498100842,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Jamaica Retro Mundial 1998",
+    "model_b": "Camiseta Jamaica Retro Mundial 1998",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336773889,
+      "variant_id": 1497212263,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 336983668,
+      "variant_id": 1498100802,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Jamaica Retro Mundial 1998",
+    "model_b": "Camiseta Jamaica Retro Mundial 1998",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336773889,
+      "variant_id": 1497212268,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983668,
+      "variant_id": 1498100808,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Jamaica Retro Mundial 1998",
+    "model_b": "Camiseta Jamaica Retro Mundial 1998",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336773889,
+      "variant_id": 1497212273,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983668,
+      "variant_id": 1498100812,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Jamaica Retro Mundial 1998",
+    "model_b": "Camiseta Jamaica Retro Mundial 1998",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336773889,
+      "variant_id": 1497212280,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 336983668,
+      "variant_id": 1498100818,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Real Madrid 11/12 CR7 - IMPORTADA",
+    "model_b": "Camieta Real Madrid 11/12 CR7 - IMPORTADA",
+    "similarity": 0.8,
+    "talle": "M",
+    "player": "RONALDO (7)",
+    "store_a": {
+      "product_id": 267719990,
+      "variant_id": 1188139772,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576641,
+      "variant_id": 1479568449,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Real Madrid 11/12 CR7 - IMPORTADA",
+    "model_b": "Camieta Real Madrid 11/12 CR7 - IMPORTADA",
+    "similarity": 0.8,
+    "talle": "L",
+    "player": "RONALDO (7)",
+    "store_a": {
+      "product_id": 267719990,
+      "variant_id": 1188139779,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576641,
+      "variant_id": 1479568459,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Real Madrid 11/12 CR7 - IMPORTADA",
+    "model_b": "Camieta Real Madrid 11/12 CR7 - IMPORTADA",
+    "similarity": 0.8,
+    "talle": "XL",
+    "player": "RONALDO (7)",
+    "store_a": {
+      "product_id": 267719990,
+      "variant_id": 1188139783,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 332576641,
+      "variant_id": 1479568465,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Real Madrid 11/12 CR7 - IMPORTADA",
+    "model_b": "Camieta Real Madrid 11/12 CR7 - IMPORTADA",
+    "similarity": 0.8,
+    "talle": "XXL",
+    "player": "RONALDO (7)",
+    "store_a": {
+      "product_id": 267719990,
+      "variant_id": 1188139787,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576641,
+      "variant_id": 1479568470,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina 1994 Suplente - Maradona",
+    "model_b": "Camiseta Argentina Mundial 1994 Suplente",
+    "similarity": 0.75,
+    "talle": "S",
+    "player": "MARADONA (10)",
+    "store_a": {
+      "product_id": 267723170,
+      "variant_id": 1388080594,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983996,
+      "variant_id": 1498101622,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina 1994 Suplente - Maradona",
+    "model_b": "Camiseta Argentina Mundial 1994 Suplente",
+    "similarity": 0.75,
+    "talle": "S",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267723170,
+      "variant_id": 1465937188,
+      "stock": 0
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "Argentina 1994 Suplente - Maradona",
+    "model_b": "Camiseta Argentina Mundial 1994 Suplente",
+    "similarity": 0.75,
+    "talle": "M",
+    "player": "MARADONA (10)",
+    "store_a": {
+      "product_id": 267723170,
+      "variant_id": 1298318778,
+      "stock": 6
+    },
+    "store_b": {
+      "product_id": 336983996,
+      "variant_id": 1498101631,
+      "stock": 17
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina 1994 Suplente - Maradona",
+    "model_b": "Camiseta Argentina Mundial 1994 Suplente",
+    "similarity": 0.75,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267723170,
+      "variant_id": 1465937189,
+      "stock": 0
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "Argentina 1994 Suplente - Maradona",
+    "model_b": "Camiseta Argentina Mundial 1994 Suplente",
+    "similarity": 0.75,
+    "talle": "L",
+    "player": "MARADONA (10)",
+    "store_a": {
+      "product_id": 267723170,
+      "variant_id": 1298318783,
+      "stock": 12
+    },
+    "store_b": {
+      "product_id": 336983996,
+      "variant_id": 1498101634,
+      "stock": 22
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina 1994 Suplente - Maradona",
+    "model_b": "Camiseta Argentina Mundial 1994 Suplente",
+    "similarity": 0.75,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267723170,
+      "variant_id": 1465937191,
+      "stock": 0
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "Argentina 1994 Suplente - Maradona",
+    "model_b": "Camiseta Argentina Mundial 1994 Suplente",
+    "similarity": 0.75,
+    "talle": "XL",
+    "player": "MARADONA (10)",
+    "store_a": {
+      "product_id": 267723170,
+      "variant_id": 1298318787,
+      "stock": 8
+    },
+    "store_b": {
+      "product_id": 336983996,
+      "variant_id": 1498101638,
+      "stock": 16
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina 1994 Suplente - Maradona",
+    "model_b": "Camiseta Argentina Mundial 1994 Suplente",
+    "similarity": 0.75,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267723170,
+      "variant_id": 1465937192,
+      "stock": 0
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "Argentina 1994 Suplente - Maradona",
+    "model_b": "Camiseta Argentina Mundial 1994 Suplente",
+    "similarity": 0.75,
+    "talle": "XXL",
+    "player": "MARADONA (10)",
+    "store_a": {
+      "product_id": 267723170,
+      "variant_id": 1298318793,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983996,
+      "variant_id": 1498101644,
+      "stock": 21
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina 1994 Suplente - Maradona",
+    "model_b": "Camiseta Argentina Mundial 1994 Suplente",
+    "similarity": 0.75,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 267723170,
+      "variant_id": 1465937194,
+      "stock": 0
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "Milan 2006 Suplente - Kaká IMPORTADA",
+    "model_b": "Camiseta Milan 2006 Suplente",
+    "similarity": 0.75,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 271526783,
+      "variant_id": 1262735488,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576395,
+      "variant_id": 1479567176,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Milan 2006 Suplente - Kaká IMPORTADA",
+    "model_b": "Camiseta Milan 2006 Suplente",
+    "similarity": 0.75,
+    "talle": "M",
+    "player": "KAKÁ (22)",
+    "store_a": {
+      "product_id": 271526783,
+      "variant_id": 1262735500,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576395,
+      "variant_id": 1479567189,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Milan 2006 Suplente - Kaká IMPORTADA",
+    "model_b": "Camiseta Milan 2006 Suplente",
+    "similarity": 0.75,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 271526783,
+      "variant_id": 1262735509,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 332576395,
+      "variant_id": 1479567197,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Milan 2006 Suplente - Kaká IMPORTADA",
+    "model_b": "Camiseta Milan 2006 Suplente",
+    "similarity": 0.75,
+    "talle": "L",
+    "player": "KAKÁ (22)",
+    "store_a": {
+      "product_id": 271526783,
+      "variant_id": 1262735520,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 332576395,
+      "variant_id": 1479567204,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Milan 2006 Suplente - Kaká IMPORTADA",
+    "model_b": "Camiseta Milan 2006 Suplente",
+    "similarity": 0.75,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 271526783,
+      "variant_id": 1262735534,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576395,
+      "variant_id": 1479567213,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Milan 2006 Suplente - Kaká IMPORTADA",
+    "model_b": "Camiseta Milan 2006 Suplente",
+    "similarity": 0.75,
+    "talle": "XL",
+    "player": "KAKÁ (22)",
+    "store_a": {
+      "product_id": 271526783,
+      "variant_id": 1262735546,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 332576395,
+      "variant_id": 1479567221,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Milan 2006 Suplente - Kaká IMPORTADA",
+    "model_b": "Camiseta Milan 2006 Suplente",
+    "similarity": 0.75,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 271526783,
+      "variant_id": 1262735556,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332576395,
+      "variant_id": 1479567229,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Milan 2006 Suplente - Kaká IMPORTADA",
+    "model_b": "Camiseta Milan 2006 Suplente",
+    "similarity": 0.75,
+    "talle": "XXL",
+    "player": "KAKÁ (22)",
+    "store_a": {
+      "product_id": 271526783,
+      "variant_id": 1262735566,
+      "stock": 4
+    },
+    "store_b": {
+      "product_id": 332576395,
+      "variant_id": 1479567247,
+      "stock": 5
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina 1986 Titular IMPORTADA",
+    "model_b": "Argentina 1986 Titular - Maradona",
+    "similarity": 0.75,
+    "talle": "M",
+    "player": "MARADONA (10)",
+    "store_a": {
+      "product_id": 282289686,
+      "variant_id": 1262713037,
+      "stock": 4
+    },
+    "store_b": {
+      "product_id": 348370615,
+      "variant_id": 1537260456,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina 1986 Titular IMPORTADA",
+    "model_b": "Argentina 1986 Titular - Maradona",
+    "similarity": 0.75,
+    "talle": "L",
+    "player": "MARADONA (10)",
+    "store_a": {
+      "product_id": 282289686,
+      "variant_id": 1262713042,
+      "stock": 6
+    },
+    "store_b": {
+      "product_id": 348370615,
+      "variant_id": 1537260465,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina 1986 Titular IMPORTADA",
+    "model_b": "Argentina 1986 Titular - Maradona",
+    "similarity": 0.75,
+    "talle": "XL",
+    "player": "MARADONA (10)",
+    "store_a": {
+      "product_id": 282289686,
+      "variant_id": 1262713049,
+      "stock": 10
+    },
+    "store_b": {
+      "product_id": 348370615,
+      "variant_id": 1537260467,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina 1986 Titular IMPORTADA",
+    "model_b": "Argentina 1986 Titular - Maradona",
+    "similarity": 0.75,
+    "talle": "XXL",
+    "player": "MARADONA (10)",
+    "store_a": {
+      "product_id": 282289686,
+      "variant_id": 1262713059,
+      "stock": 8
+    },
+    "store_b": {
+      "product_id": 348370615,
+      "variant_id": 1537260475,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester United Alternativa 94/95",
+    "model_b": "Camiseta Manchester United 94/95 Suplente",
+    "similarity": 0.75,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336772861,
+      "variant_id": 1497207549,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 337008482,
+      "variant_id": 1498164332,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester United Alternativa 94/95",
+    "model_b": "Camiseta Manchester United 94/95 Suplente",
+    "similarity": 0.75,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336772861,
+      "variant_id": 1497207551,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 337008482,
+      "variant_id": 1498164338,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester United Alternativa 94/95",
+    "model_b": "Camiseta Manchester United 94/95 Suplente",
+    "similarity": 0.75,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336772861,
+      "variant_id": 1497207552,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 337008482,
+      "variant_id": 1498164343,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Manchester United Alternativa 94/95",
+    "model_b": "Camiseta Manchester United 94/95 Suplente",
+    "similarity": 0.75,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336772861,
+      "variant_id": 1497207555,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 337008482,
+      "variant_id": 1498164349,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina 2006 Titular IMPORTADA",
+    "model_b": "Argentina Mundial 2006 Titular - Messi",
+    "similarity": 0.75,
+    "talle": "S",
+    "player": "MESSI (19)",
+    "store_a": {
+      "product_id": 347815052,
+      "variant_id": 1535516340,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 348372539,
+      "variant_id": 1537251394,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina 2006 Titular IMPORTADA",
+    "model_b": "Argentina Mundial 2006 Titular - Messi",
+    "similarity": 0.75,
+    "talle": "S",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 347815052,
+      "variant_id": 1535516341,
+      "stock": 0
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "Argentina 2006 Titular IMPORTADA",
+    "model_b": "Argentina Mundial 2006 Titular - Messi",
+    "similarity": 0.75,
+    "talle": "M",
+    "player": "MESSI (19)",
+    "store_a": {
+      "product_id": 347815052,
+      "variant_id": 1535516345,
+      "stock": 5
+    },
+    "store_b": {
+      "product_id": 348372539,
+      "variant_id": 1537251399,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina 2006 Titular IMPORTADA",
+    "model_b": "Argentina Mundial 2006 Titular - Messi",
+    "similarity": 0.75,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 347815052,
+      "variant_id": 1535516347,
+      "stock": 0
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "Argentina 2006 Titular IMPORTADA",
+    "model_b": "Argentina Mundial 2006 Titular - Messi",
+    "similarity": 0.75,
+    "talle": "L",
+    "player": "MESSI (19)",
+    "store_a": {
+      "product_id": 347815052,
+      "variant_id": 1535516349,
+      "stock": 7
+    },
+    "store_b": {
+      "product_id": 348372539,
+      "variant_id": 1537251404,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina 2006 Titular IMPORTADA",
+    "model_b": "Argentina Mundial 2006 Titular - Messi",
+    "similarity": 0.75,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 347815052,
+      "variant_id": 1535516350,
+      "stock": 0
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "Argentina 2006 Titular IMPORTADA",
+    "model_b": "Argentina Mundial 2006 Titular - Messi",
+    "similarity": 0.75,
+    "talle": "XL",
+    "player": "MESSI (19)",
+    "store_a": {
+      "product_id": 347815052,
+      "variant_id": 1535516352,
+      "stock": 10
+    },
+    "store_b": {
+      "product_id": 348372539,
+      "variant_id": 1537251408,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina 2006 Titular IMPORTADA",
+    "model_b": "Argentina Mundial 2006 Titular - Messi",
+    "similarity": 0.75,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 347815052,
+      "variant_id": 1535516353,
+      "stock": 0
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "Argentina 2006 Titular IMPORTADA",
+    "model_b": "Argentina Mundial 2006 Titular - Messi",
+    "similarity": 0.75,
+    "talle": "XXL",
+    "player": "MESSI (19)",
+    "store_a": {
+      "product_id": 347815052,
+      "variant_id": 1535516355,
+      "stock": 5
+    },
+    "store_b": {
+      "product_id": 348372539,
+      "variant_id": 1537251413,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina 2006 Titular IMPORTADA",
+    "model_b": "Argentina Mundial 2006 Titular - Messi",
+    "similarity": 0.75,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 347815052,
+      "variant_id": 1535516356,
+      "stock": 0
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "Argentina 2006 Suplente IMPORTADA",
+    "model_b": "Argentina Mundial 2006 Suplente - Messi",
+    "similarity": 0.75,
+    "talle": "M",
+    "player": "MESSI (19)",
+    "store_a": {
+      "product_id": 347816436,
+      "variant_id": 1535520723,
+      "stock": 5
+    },
+    "store_b": {
+      "product_id": 348372010,
+      "variant_id": 1537251209,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina 2006 Suplente IMPORTADA",
+    "model_b": "Argentina Mundial 2006 Suplente - Messi",
+    "similarity": 0.75,
+    "talle": "L",
+    "player": "MESSI (19)",
+    "store_a": {
+      "product_id": 347816436,
+      "variant_id": 1535520724,
+      "stock": 8
+    },
+    "store_b": {
+      "product_id": 348372010,
+      "variant_id": 1537251214,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina 2006 Suplente IMPORTADA",
+    "model_b": "Argentina Mundial 2006 Suplente - Messi",
+    "similarity": 0.75,
+    "talle": "XL",
+    "player": "MESSI (19)",
+    "store_a": {
+      "product_id": 347816436,
+      "variant_id": 1535520725,
+      "stock": 10
+    },
+    "store_b": {
+      "product_id": 348372010,
+      "variant_id": 1537251218,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Argentina 2006 Suplente IMPORTADA",
+    "model_b": "Argentina Mundial 2006 Suplente - Messi",
+    "similarity": 0.75,
+    "talle": "XXL",
+    "player": "MESSI (19)",
+    "store_a": {
+      "product_id": 347816436,
+      "variant_id": 1535520727,
+      "stock": 6
+    },
+    "store_b": {
+      "product_id": 348372010,
+      "variant_id": 1537251222,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2003 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2003",
+    "similarity": 0.67,
+    "talle": "M",
+    "player": "TEVEZ (11)",
+    "store_a": {
+      "product_id": 303673891,
+      "variant_id": 1351362629,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 336983868,
+      "variant_id": 1498101298,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2003 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2003",
+    "similarity": 0.67,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 303673891,
+      "variant_id": 1351362639,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983868,
+      "variant_id": 1498101308,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2003 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2003",
+    "similarity": 0.67,
+    "talle": "L",
+    "player": "TEVEZ (11)",
+    "store_a": {
+      "product_id": 303673891,
+      "variant_id": 1351362644,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983868,
+      "variant_id": 1498101310,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2003 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2003",
+    "similarity": 0.67,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 303673891,
+      "variant_id": 1351362650,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 336983868,
+      "variant_id": 1498101316,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2003 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2003",
+    "similarity": 0.67,
+    "talle": "XL",
+    "player": "TEVEZ (11)",
+    "store_a": {
+      "product_id": 303673891,
+      "variant_id": 1351362653,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983868,
+      "variant_id": 1498101320,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2003 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2003",
+    "similarity": 0.67,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 303673891,
+      "variant_id": 1351362662,
+      "stock": 5
+    },
+    "store_b": {
+      "product_id": 336983868,
+      "variant_id": 1498101331,
+      "stock": 5
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2003 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2003",
+    "similarity": 0.67,
+    "talle": "XXL",
+    "player": "TEVEZ (11)",
+    "store_a": {
+      "product_id": 303673891,
+      "variant_id": 1351362668,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983868,
+      "variant_id": 1498101333,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Boca Jrs. 2003 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2003",
+    "similarity": 0.67,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 303673891,
+      "variant_id": 1351362682,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983868,
+      "variant_id": 1498101337,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "PSG 2001 Titular IMPORTADA",
+    "model_b": "Camiseta PSG 2001 Retro",
+    "similarity": 0.67,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313298978,
+      "variant_id": 1388238106,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 332575485,
+      "variant_id": 1479563664,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "PSG 2001 Titular IMPORTADA",
+    "model_b": "Camiseta PSG 2001 Retro",
+    "similarity": 0.67,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313298978,
+      "variant_id": 1388238112,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575485,
+      "variant_id": 1479563677,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "PSG 2001 Titular IMPORTADA",
+    "model_b": "Camiseta PSG 2001 Retro",
+    "similarity": 0.67,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313298978,
+      "variant_id": 1388238116,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 332575485,
+      "variant_id": 1479563681,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "PSG 2001 Titular IMPORTADA",
+    "model_b": "Camiseta PSG 2001 Retro",
+    "similarity": 0.67,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313298978,
+      "variant_id": 1388238120,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575485,
+      "variant_id": 1479563689,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Boca Juniors 1997",
+    "model_b": "Camiseta Boca Juniors 1997 Titular",
+    "similarity": 0.67,
+    "talle": "M",
+    "player": "10 (MARADONA)",
+    "store_a": {
+      "product_id": 336513383,
+      "variant_id": 1496335107,
+      "stock": 12
+    },
+    "store_b": {
+      "product_id": 336983840,
+      "variant_id": 1498101230,
+      "stock": 12
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Boca Juniors 1997",
+    "model_b": "Camiseta Boca Juniors 1997 Titular",
+    "similarity": 0.67,
+    "talle": "L",
+    "player": "10 (MARADONA)",
+    "store_a": {
+      "product_id": 336513383,
+      "variant_id": 1496335110,
+      "stock": 17
+    },
+    "store_b": {
+      "product_id": 336983840,
+      "variant_id": 1498101238,
+      "stock": 17
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Boca Juniors 1997",
+    "model_b": "Camiseta Boca Juniors 1997 Titular",
+    "similarity": 0.67,
+    "talle": "XL",
+    "player": "10 (MARADONA)",
+    "store_a": {
+      "product_id": 336513383,
+      "variant_id": 1496335112,
+      "stock": 16
+    },
+    "store_b": {
+      "product_id": 336983840,
+      "variant_id": 1498101242,
+      "stock": 16
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Boca Juniors 1997",
+    "model_b": "Camiseta Boca Juniors 1997 Titular",
+    "similarity": 0.67,
+    "talle": "XXL",
+    "player": "10 (MARADONA)",
+    "store_a": {
+      "product_id": 336513383,
+      "variant_id": 1496335114,
+      "stock": 10
+    },
+    "store_b": {
+      "product_id": 336983840,
+      "variant_id": 1498101244,
+      "stock": 10
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River Campeon 2018 IMPORTADA",
+    "model_b": "Camiseta River Libertadores 2018",
+    "similarity": 0.5,
+    "talle": "M",
+    "player": "QUINTERO (8)",
+    "store_a": {
+      "product_id": 313289699,
+      "variant_id": 1388213490,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 332575631,
+      "variant_id": 1479564277,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River Campeon 2018 IMPORTADA",
+    "model_b": "Camiseta River Libertadores 2018",
+    "similarity": 0.5,
+    "talle": "M",
+    "player": "G. MARTINEZ (10)",
+    "store_a": {
+      "product_id": 313289699,
+      "variant_id": 1388213499,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 332575631,
+      "variant_id": 1479564289,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River Campeon 2018 IMPORTADA",
+    "model_b": "Camiseta River Libertadores 2018",
+    "similarity": 0.5,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313289699,
+      "variant_id": 1388213507,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 332575631,
+      "variant_id": 1479564295,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River Campeon 2018 IMPORTADA",
+    "model_b": "Camiseta River Libertadores 2018",
+    "similarity": 0.5,
+    "talle": "L",
+    "player": "QUINTERO (8)",
+    "store_a": {
+      "product_id": 313289699,
+      "variant_id": 1388213514,
+      "stock": 4
+    },
+    "store_b": {
+      "product_id": 332575631,
+      "variant_id": 1479564305,
+      "stock": 5
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River Campeon 2018 IMPORTADA",
+    "model_b": "Camiseta River Libertadores 2018",
+    "similarity": 0.5,
+    "talle": "L",
+    "player": "G. MARTINEZ (10)",
+    "store_a": {
+      "product_id": 313289699,
+      "variant_id": 1388213519,
+      "stock": 5
+    },
+    "store_b": {
+      "product_id": 332575631,
+      "variant_id": 1479564309,
+      "stock": 5
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River Campeon 2018 IMPORTADA",
+    "model_b": "Camiseta River Libertadores 2018",
+    "similarity": 0.5,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313289699,
+      "variant_id": 1388213523,
+      "stock": 4
+    },
+    "store_b": {
+      "product_id": 332575631,
+      "variant_id": 1479564317,
+      "stock": 4
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River Campeon 2018 IMPORTADA",
+    "model_b": "Camiseta River Libertadores 2018",
+    "similarity": 0.5,
+    "talle": "XL",
+    "player": "QUINTERO (8)",
+    "store_a": {
+      "product_id": 313289699,
+      "variant_id": 1388213529,
+      "stock": 6
+    },
+    "store_b": {
+      "product_id": 332575631,
+      "variant_id": 1479564322,
+      "stock": 7
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River Campeon 2018 IMPORTADA",
+    "model_b": "Camiseta River Libertadores 2018",
+    "similarity": 0.5,
+    "talle": "XL",
+    "player": "G. MARTINEZ (10)",
+    "store_a": {
+      "product_id": 313289699,
+      "variant_id": 1388213537,
+      "stock": 5
+    },
+    "store_b": {
+      "product_id": 332575631,
+      "variant_id": 1479564328,
+      "stock": 5
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River Campeon 2018 IMPORTADA",
+    "model_b": "Camiseta River Libertadores 2018",
+    "similarity": 0.5,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313289699,
+      "variant_id": 1388213544,
+      "stock": 5
+    },
+    "store_b": {
+      "product_id": 332575631,
+      "variant_id": 1479564335,
+      "stock": 4
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River Campeon 2018 IMPORTADA",
+    "model_b": "Camiseta River Libertadores 2018",
+    "similarity": 0.5,
+    "talle": "XXL",
+    "player": "QUINTERO (8)",
+    "store_a": {
+      "product_id": 313289699,
+      "variant_id": 1388213553,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 332575631,
+      "variant_id": 1479564340,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River Campeon 2018 IMPORTADA",
+    "model_b": "Camiseta River Libertadores 2018",
+    "similarity": 0.5,
+    "talle": "XXL",
+    "player": "G. MARTINEZ (10)",
+    "store_a": {
+      "product_id": 313289699,
+      "variant_id": 1388213562,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 332575631,
+      "variant_id": 1479564345,
+      "stock": 2
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River Campeon 2018 IMPORTADA",
+    "model_b": "Camiseta River Libertadores 2018",
+    "similarity": 0.5,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313289699,
+      "variant_id": 1388213568,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575631,
+      "variant_id": 1479564350,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Sevilla 91/92 Maradona",
+    "model_b": "Camiseta Sevilla Maradona 1992",
+    "similarity": 0.5,
+    "talle": "M",
+    "player": "10 (MARADONA)",
+    "store_a": {
+      "product_id": 313296652,
+      "variant_id": 1437552601,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 336983754,
+      "variant_id": 1498101037,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Sevilla 91/92 Maradona",
+    "model_b": "Camiseta Sevilla Maradona 1992",
+    "similarity": 0.5,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313296652,
+      "variant_id": 1437552610,
+      "stock": 1
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "Camiseta Sevilla 91/92 Maradona",
+    "model_b": "Camiseta Sevilla Maradona 1992",
+    "similarity": 0.5,
+    "talle": "L",
+    "player": "10 (MARADONA)",
+    "store_a": {
+      "product_id": 313296652,
+      "variant_id": 1437552619,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 336983754,
+      "variant_id": 1498101054,
+      "stock": 3
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Sevilla 91/92 Maradona",
+    "model_b": "Camiseta Sevilla Maradona 1992",
+    "similarity": 0.5,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313296652,
+      "variant_id": 1437552627,
+      "stock": 0
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "Camiseta Sevilla 91/92 Maradona",
+    "model_b": "Camiseta Sevilla Maradona 1992",
+    "similarity": 0.5,
+    "talle": "XL",
+    "player": "10 (MARADONA)",
+    "store_a": {
+      "product_id": 313296652,
+      "variant_id": 1437552638,
+      "stock": 5
+    },
+    "store_b": {
+      "product_id": 336983754,
+      "variant_id": 1498101059,
+      "stock": 5
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Sevilla 91/92 Maradona",
+    "model_b": "Camiseta Sevilla Maradona 1992",
+    "similarity": 0.5,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313296652,
+      "variant_id": 1437552650,
+      "stock": 1
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "Camiseta Sevilla 91/92 Maradona",
+    "model_b": "Camiseta Sevilla Maradona 1992",
+    "similarity": 0.5,
+    "talle": "XXL",
+    "player": "10 (MARADONA)",
+    "store_a": {
+      "product_id": 313296652,
+      "variant_id": 1437552669,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983754,
+      "variant_id": 1498101064,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Camiseta Sevilla 91/92 Maradona",
+    "model_b": "Camiseta Sevilla Maradona 1992",
+    "similarity": 0.5,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313296652,
+      "variant_id": 1437552678,
+      "stock": 0
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: esta variante no existe en Club 90"
+  },
+  {
+    "model_a": "River 2000/02 Alternativa IMPORTADA",
+    "model_b": "Camiseta River 2000/01 Alternativa",
+    "similarity": 0.33,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313292862,
+      "variant_id": 1388217828,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 332575613,
+      "variant_id": 1479564206,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River 2000/02 Alternativa IMPORTADA",
+    "model_b": "Camiseta River 2000/01 Alternativa",
+    "similarity": 0.33,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313292862,
+      "variant_id": 1388217830,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575613,
+      "variant_id": 1479564217,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River 2000/02 Alternativa IMPORTADA",
+    "model_b": "Camiseta River 2000/01 Alternativa",
+    "similarity": 0.33,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313292862,
+      "variant_id": 1388217834,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575613,
+      "variant_id": 1479564225,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "River 2000/02 Alternativa IMPORTADA",
+    "model_b": "Camiseta River 2000/01 Alternativa",
+    "similarity": 0.33,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 313292862,
+      "variant_id": 1388217837,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 332575613,
+      "variant_id": 1479564232,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": ""
+  },
+  {
+    "model_a": "Napoli 86/87 Maradona - IMPORTADA",
+    "model_b": "Camiseta Napoli 86/87 - Maradona",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "MARADONA (10)",
+    "store_a": {
+      "product_id": 303669858,
+      "variant_id": 1351343639,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 348373079,
+      "variant_id": 1537259962,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": "MANUAL: player key differs between stores (Maradona (10) vs 10 (Maradona))"
+  },
+  {
+    "model_a": "Napoli 86/87 Maradona - IMPORTADA",
+    "model_b": "Camiseta Napoli 86/87 - Maradona",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "MARADONA (10)",
+    "store_a": {
+      "product_id": 303669858,
+      "variant_id": 1351343651,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 348373079,
+      "variant_id": 1537259964,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": "MANUAL: player key differs between stores (Maradona (10) vs 10 (Maradona))"
+  },
+  {
+    "model_a": "Napoli 86/87 Maradona - IMPORTADA",
+    "model_b": "Camiseta Napoli 86/87 - Maradona",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "MARADONA (10)",
+    "store_a": {
+      "product_id": 303669858,
+      "variant_id": 1351343660,
+      "stock": 3
+    },
+    "store_b": {
+      "product_id": 348373079,
+      "variant_id": 1537259969,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": "MANUAL: player key differs between stores (Maradona (10) vs 10 (Maradona))"
+  },
+  {
+    "model_a": "Napoli 86/87 Maradona - IMPORTADA",
+    "model_b": "Camiseta Napoli 86/87 - Maradona",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "MARADONA (10)",
+    "store_a": {
+      "product_id": 303669858,
+      "variant_id": 1351343668,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 348373079,
+      "variant_id": 1537259971,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": "MANUAL: player key differs between stores (Maradona (10) vs 10 (Maradona))"
+  },
+  {
+    "model_a": "Napoli 86/87 Maradona - IMPORTADA",
+    "model_b": "Camiseta Napoli 86/87 - Maradona",
+    "similarity": 1.0,
+    "talle": "S",
+    "player": "MARADONA (10)",
+    "store_a": {
+      "product_id": 303669858,
+      "variant_id": 1352531822,
+      "stock": 0
+    },
+    "store_b": null,
+    "confirmed": false,
+    "note": "SIN_PAR: talle S no existe en Club 90"
+  },
+  {
+    "model_a": "Boca Jrs. 2007 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2007",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "PALERMO (9)",
+    "store_a": {
+      "product_id": 271526949,
+      "variant_id": 1212696840,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983940,
+      "variant_id": 1498101480,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": "MANUAL: nombre distinto entre tiendas (2007 IMPORTADA vs Libertadores 2007)"
+  },
+  {
+    "model_a": "Boca Jrs. 2007 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2007",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "RIQUELME (10)",
+    "store_a": {
+      "product_id": 271526949,
+      "variant_id": 1212696846,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983940,
+      "variant_id": 1498101488,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": "MANUAL: nombre distinto entre tiendas (2007 IMPORTADA vs Libertadores 2007)"
+  },
+  {
+    "model_a": "Boca Jrs. 2007 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2007",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "PALACIO (14)",
+    "store_a": {
+      "product_id": 271526949,
+      "variant_id": 1499045374,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983940,
+      "variant_id": 1498101498,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": "MANUAL: nombre distinto entre tiendas (2007 IMPORTADA vs Libertadores 2007)"
+  },
+  {
+    "model_a": "Boca Jrs. 2007 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2007",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 271526949,
+      "variant_id": 1365226660,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983940,
+      "variant_id": 1498101493,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": "MANUAL: nombre distinto entre tiendas (2007 IMPORTADA vs Libertadores 2007)"
+  },
+  {
+    "model_a": "Boca Jrs. 2007 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2007",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "PALERMO (9)",
+    "store_a": {
+      "product_id": 271526949,
+      "variant_id": 1212696853,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983940,
+      "variant_id": 1498101509,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": "MANUAL: nombre distinto entre tiendas (2007 IMPORTADA vs Libertadores 2007)"
+  },
+  {
+    "model_a": "Boca Jrs. 2007 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2007",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "RIQUELME (10)",
+    "store_a": {
+      "product_id": 271526949,
+      "variant_id": 1212696856,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983940,
+      "variant_id": 1498101513,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": "MANUAL: nombre distinto entre tiendas (2007 IMPORTADA vs Libertadores 2007)"
+  },
+  {
+    "model_a": "Boca Jrs. 2007 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2007",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "PALACIO (14)",
+    "store_a": {
+      "product_id": 271526949,
+      "variant_id": 1499045375,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983940,
+      "variant_id": 1498101526,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": "MANUAL: nombre distinto entre tiendas (2007 IMPORTADA vs Libertadores 2007)"
+  },
+  {
+    "model_a": "Boca Jrs. 2007 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2007",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 271526949,
+      "variant_id": 1365226669,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983940,
+      "variant_id": 1498101520,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": "MANUAL: nombre distinto entre tiendas (2007 IMPORTADA vs Libertadores 2007)"
+  },
+  {
+    "model_a": "Boca Jrs. 2007 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2007",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "PALERMO (9)",
+    "store_a": {
+      "product_id": 271526949,
+      "variant_id": 1212696861,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983940,
+      "variant_id": 1498101531,
+      "stock": 7
+    },
+    "confirmed": true,
+    "note": "MANUAL: nombre distinto entre tiendas (2007 IMPORTADA vs Libertadores 2007)"
+  },
+  {
+    "model_a": "Boca Jrs. 2007 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2007",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "RIQUELME (10)",
+    "store_a": {
+      "product_id": 271526949,
+      "variant_id": 1212696863,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983940,
+      "variant_id": 1498101535,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": "MANUAL: nombre distinto entre tiendas (2007 IMPORTADA vs Libertadores 2007)"
+  },
+  {
+    "model_a": "Boca Jrs. 2007 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2007",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "PALACIO (14)",
+    "store_a": {
+      "product_id": 271526949,
+      "variant_id": 1499045378,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983940,
+      "variant_id": 1498101547,
+      "stock": 1
+    },
+    "confirmed": true,
+    "note": "MANUAL: nombre distinto entre tiendas (2007 IMPORTADA vs Libertadores 2007)"
+  },
+  {
+    "model_a": "Boca Jrs. 2007 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2007",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 271526949,
+      "variant_id": 1365226672,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983940,
+      "variant_id": 1498101543,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": "MANUAL: nombre distinto entre tiendas (2007 IMPORTADA vs Libertadores 2007)"
+  },
+  {
+    "model_a": "Boca Jrs. 2007 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2007",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "PALERMO (9)",
+    "store_a": {
+      "product_id": 271526949,
+      "variant_id": 1212696866,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983940,
+      "variant_id": 1498101551,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": "MANUAL: nombre distinto entre tiendas (2007 IMPORTADA vs Libertadores 2007)"
+  },
+  {
+    "model_a": "Boca Jrs. 2007 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2007",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "RIQUELME (10)",
+    "store_a": {
+      "product_id": 271526949,
+      "variant_id": 1212696868,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983940,
+      "variant_id": 1498101553,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": "MANUAL: nombre distinto entre tiendas (2007 IMPORTADA vs Libertadores 2007)"
+  },
+  {
+    "model_a": "Boca Jrs. 2007 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2007",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "PALACIO (14)",
+    "store_a": {
+      "product_id": 271526949,
+      "variant_id": 1499045379,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983940,
+      "variant_id": 1498101563,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": "MANUAL: nombre distinto entre tiendas (2007 IMPORTADA vs Libertadores 2007)"
+  },
+  {
+    "model_a": "Boca Jrs. 2007 IMPORTADA",
+    "model_b": "Camiseta Boca Juniors Libertadores 2007",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 271526949,
+      "variant_id": 1365226679,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983940,
+      "variant_id": 1498101559,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": "MANUAL: nombre distinto entre tiendas (2007 IMPORTADA vs Libertadores 2007)"
+  }
+]

@@ -1,0 +1,6 @@
+.env
+stock/.env
+stock/sync_log.txt
+stock/club90_products.json
+__pycache__/
+*.pyc
