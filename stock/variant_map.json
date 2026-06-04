@@ -3829,66 +3829,6 @@
     "note": ""
   },
   {
-    "model_a": "Camiseta Napoli 1990 - Maradona",
-    "model_b": "Camiseta Napoli 1990 Maradona",
-    "similarity": 1.0,
-    "talle": "M",
-    "player": "SIN_NOMBRE",
-    "store_a": {
-      "product_id": 336772679,
-      "variant_id": 1497206478,
-      "stock": 1
-    },
-    "store_b": null,
-    "confirmed": false,
-    "note": "SIN_PAR: esta variante no existe en Club 90"
-  },
-  {
-    "model_a": "Camiseta Napoli 1990 - Maradona",
-    "model_b": "Camiseta Napoli 1990 Maradona",
-    "similarity": 1.0,
-    "talle": "L",
-    "player": "SIN_NOMBRE",
-    "store_a": {
-      "product_id": 336772679,
-      "variant_id": 1497206482,
-      "stock": 4
-    },
-    "store_b": null,
-    "confirmed": false,
-    "note": "SIN_PAR: esta variante no existe en Club 90"
-  },
-  {
-    "model_a": "Camiseta Napoli 1990 - Maradona",
-    "model_b": "Camiseta Napoli 1990 Maradona",
-    "similarity": 1.0,
-    "talle": "XL",
-    "player": "SIN_NOMBRE",
-    "store_a": {
-      "product_id": 336772679,
-      "variant_id": 1497206486,
-      "stock": 2
-    },
-    "store_b": null,
-    "confirmed": false,
-    "note": "SIN_PAR: esta variante no existe en Club 90"
-  },
-  {
-    "model_a": "Camiseta Napoli 1990 - Maradona",
-    "model_b": "Camiseta Napoli 1990 Maradona",
-    "similarity": 1.0,
-    "talle": "XXL",
-    "player": "SIN_NOMBRE",
-    "store_a": {
-      "product_id": 336772679,
-      "variant_id": 1497206490,
-      "stock": 0
-    },
-    "store_b": null,
-    "confirmed": false,
-    "note": "SIN_PAR: esta variante no existe en Club 90"
-  },
-  {
     "model_a": "Camiseta Alemania Mundial 1990",
     "model_b": "Camiseta Alemania Mundial 1990",
     "similarity": 1.0,
@@ -6202,5 +6142,81 @@
     },
     "confirmed": true,
     "note": "MANUAL: nombre distinto entre tiendas (2007 IMPORTADA vs Libertadores 2007)"
+  },
+  {
+    "model_a": "Camiseta Napoli 1990 - Maradona",
+    "model_b": "Camiseta Napoli 1990 Maradona",
+    "similarity": 1.0,
+    "talle": "M",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336772679,
+      "variant_id": 1497206478,
+      "stock": 1
+    },
+    "store_b": {
+      "product_id": 336983715,
+      "variant_id": 1537259300,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": "MANUAL: R10 sin jugador, Club 90 con 10 (Maradona)"
+  },
+  {
+    "model_a": "Camiseta Napoli 1990 - Maradona",
+    "model_b": "Camiseta Napoli 1990 Maradona",
+    "similarity": 1.0,
+    "talle": "L",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336772679,
+      "variant_id": 1497206482,
+      "stock": 4
+    },
+    "store_b": {
+      "product_id": 336983715,
+      "variant_id": 1537259328,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": "MANUAL: R10 sin jugador, Club 90 con 10 (Maradona)"
+  },
+  {
+    "model_a": "Camiseta Napoli 1990 - Maradona",
+    "model_b": "Camiseta Napoli 1990 Maradona",
+    "similarity": 1.0,
+    "talle": "XL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336772679,
+      "variant_id": 1497206486,
+      "stock": 2
+    },
+    "store_b": {
+      "product_id": 336983715,
+      "variant_id": 1537259350,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": "MANUAL: R10 sin jugador, Club 90 con 10 (Maradona)"
+  },
+  {
+    "model_a": "Camiseta Napoli 1990 - Maradona",
+    "model_b": "Camiseta Napoli 1990 Maradona",
+    "similarity": 1.0,
+    "talle": "XXL",
+    "player": "SIN_NOMBRE",
+    "store_a": {
+      "product_id": 336772679,
+      "variant_id": 1497206490,
+      "stock": 0
+    },
+    "store_b": {
+      "product_id": 336983715,
+      "variant_id": 1537259372,
+      "stock": 0
+    },
+    "confirmed": true,
+    "note": "MANUAL: R10 sin jugador, Club 90 con 10 (Maradona)"
   }
 ]
