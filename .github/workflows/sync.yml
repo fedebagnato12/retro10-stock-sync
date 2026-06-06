@@ -1,9 +1,9 @@
 name: Stock Sync — Retro 10 / Club 90
 
 on:
-  schedule:
-    - cron: '*/10 * * * *'  # cada 10 minutos
-  workflow_dispatch:          # disparo manual desde GitHub
+  # schedule:
+  #   - cron: '*/10 * * * *'  # PAUSADO
+  workflow_dispatch:          # solo manual por ahora
 
 jobs:
   sync:
