@@ -74,7 +74,10 @@ def api_get_variant(store_id, token, product_id, variant_id):
         url, headers={"Authentication": f"bearer {token}", "User-Agent": "RetroClub-Sync/1.0"})
     with urllib.request.urlopen(req, timeout=15) as r:
         data = json.loads(r.read())
-    return int(data.get('stock') or 0)
+    stock = data.get('stock')
+    if stock is None:
+        return None  # stock ilimitado/no gestionado — no tocar
+    return int(stock)
 
 def api_set_variant_stock(store_id, token, product_id, variant_id, new_stock):
     if DRY_RUN:
@@ -137,6 +140,12 @@ for entry in mapping:
         time.sleep(API_DELAY)
         cur_b = api_get_variant(STORE_B_ID, STORE_B_TOKEN, pid_b, vid_b)
         time.sleep(API_DELAY)
+
+        if cur_a is None or cur_b is None:
+            log(f"  SKIP {label}: stock no gestionado (A={cur_a} B={cur_b})", force=True)
+            if key in state:
+                new_state[key] = state[key]
+            continue
 
         # ── INIT: R10 es fuente de verdad ──────────────────────────────────
         if INIT_MODE or key not in state:

@@ -5,6 +5,10 @@ on:
   #   - cron: '*/10 * * * *'  # PAUSADO
   workflow_dispatch:          # solo manual por ahora
 
+concurrency:
+  group: stock-sync
+  cancel-in-progress: false
+
 jobs:
   sync:
     runs-on: ubuntu-latest
